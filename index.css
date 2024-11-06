@@ -20,7 +20,7 @@ header{
 .action_bar{
     margin-right:4%;
 }
-.nav_bar{
+.nav_bar1{
     display:flex;
     min-width: 500px;
     justify-content: space-between;
